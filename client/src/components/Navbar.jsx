@@ -32,14 +32,14 @@ const Navbar = () => {
       <div>
         {!toggleMenu && (
           <HiMenuAlt4
-            fontSize={28}
+            fontSize={27}
             className="text-white md:hidden cursor-pointer"
             onClick={() => setToggleMenu(true)}
           />
         )}
         {toggleMenu && (
           <AiOutlineClose
-            fontSize={28}
+            fontSize={27}
             className="text-white md:hidden cursor-pointer"
             onClick={() => setToggleMenu(false)}
           />
