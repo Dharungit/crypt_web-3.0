@@ -24,7 +24,7 @@ const Navbar = () => {
           <li>
             <button>
               <span>Login</span>
-              <div class="liquid"></div>
+              <div className="liquid"></div>
             </button>
           </li>
         </ul>
@@ -71,7 +71,7 @@ const Navbar = () => {
               <li>
                 <button>
                   <span>Login</span>
-                  <div class="liquid"></div>
+                  <div className="liquid"></div>
                 </button>
               </li>
             </ul>

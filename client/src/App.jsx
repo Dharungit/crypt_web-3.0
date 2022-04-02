@@ -4,7 +4,6 @@ import {
   Footer,
   Transactions,
   Services,
-  Loader,
 } from "./components/index";
 
 const App = () => {
